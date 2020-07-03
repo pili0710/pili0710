@@ -1,0 +1,187 @@
+body {
+  margin-bottom: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 1170px;
+  height:500px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+.container h2 {
+  opacity: 0.7;
+}
+.header-left h4{
+  color: white;
+  font-size: 25;
+  
+  font-weight: bold;
+  opacity: 0.9;
+  float: left;
+  padding-top: 17px;
+  padding-left: 20px;
+  padding-right: 75;
+}
+
+.top-wrapper {
+  padding: 180px 0 50px 0;
+  background-image: url(https://3.bp.blogspot.com/-lVP5yyt8kPw/V42cfBpTcqI/AAAAAAAAALU/NPsgvWOiqkYN8IJqr1c4FDOBuAVmIVnrgCEw/s1600/gadang.JPG);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  opacity: 1;
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+.top-wrapper p {
+  opacity: 0.7;
+  margin-bottom: 0px;
+}
+
+.btn-wrapper {
+  margin: 20px 0;
+}
+
+
+.btn {
+  padding: 22px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.9;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  background-color: rgba(255, 255, 255, 0.3);
+  transition: all 0.5s;
+}
+
+.header-right:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+}
+
+.lesson-wrapper {
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 20px;
+  padding-bottom: 30px;
+  color: white ;
+}
+
+.heading h2 {
+  font-weight: bold;
+  opacity: 0.7;
+}
+
+
+.heading h3 {
+  font-weight: bold;
+  color: #FF8C00;
+  opacity: 0.9;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.message:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
+
+/* Tambahkan CSS untuk tag <img> yang berada didalam <footer> */
+.container img {
+  width: 200px;
+  padding-top: 15px;
+}
+
+/* Tambahkan CSS untuk tag <p> yang berada didalam <footer> */
+.container p {
+  color: #b3aeb5;
+  font-size: 20px;
+}
+
+/* Tambahkan CSS untuk tag <footer> */
+.toppu h5 {
+  float: right;
+  color: red;
+  font-size: 30px;
+  padding-right: 15px;
+  padding-top: 14px;
+}
+
+.footer-list h3 {
+  font-size: 50px;
+color: black;
+}
+.footer-list p {
+font-size : 30px;
+font-weight: bold;
+opacity: 2;
+}
+
+.mainn {
+  height: 150px;
+  color: black;
+  font-size: 32;
+}
+
+.judul {
+  color: red;
+  font-size: 24;
+}
